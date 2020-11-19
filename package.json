@@ -1,0 +1,9 @@
+{
+  "name": "depcruise-donotfollow",
+  "version": "1.0.0",
+  "description": "Demo to show problem with mono-repo",
+  "main": "index.js",
+  "repository": "https://github.com/mreuter/depcruise-donotfollow",
+  "author": "Marc Reuter",
+  "license": "MIT"
+}
